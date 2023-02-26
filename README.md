@@ -7,3 +7,4 @@
 3. [Lyft Experience with Bazel](https://www.youtube.com/watch?v=NAPeWoimGx8)
 4. [Reddit Migration To Bazel](https://www.reddit.com/r/RedditEng/comments/syz5dw/ios_and_bazel_at_reddit_a_journey/)
 5. [Spotify About Bazel Podcast](https://open.spotify.com/show/5qTUK7Iy1sELo6k7IXB0Qk)
+6. [BuildBuddy](https://github.com/buildbuddy-io/buildbuddy)
